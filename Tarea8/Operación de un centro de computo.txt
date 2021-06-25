@@ -1,0 +1,25 @@
+1.- Operar el sistema de computación central y mantener el sistema disponible
+para los usuarios.
+Ejemplo: En la FES al momento de las inscripciones o altas y bajas. el sistema con el que se realizan esos registros 
+debe de funcionar correctamente, ya que sería un gran problema si no funcionara, habría muchas quejas y afectados.
+
+2.- Realizar las copias de respaldo (back-up) de la información y procesos de
+cómputo que se realizan en la Dirección, conforme a parámetros preestablecidos.
+Ejemplo: Si dejara de funcionar un servidor de producción y no existiera respaldo alguno, todo el desarrollo que se ha
+realizado se perdería, serian recursos perdidos y podría afectar los plazos de entrega ya pactados.
+
+3.- Velar porque el sistema computarizado se mantenga funcionando apropiadamente
+y estar vigilante para detectar y corregir fallas en el mismo.
+Ejemplo: Si se cayera la plataforma de Amazon y nadie estuviera monitoreando el estado de los servidores, 
+tardarían mucho tiempo en poder reanudar los servicios, lo cual generaría pérdidas millonarias por cada minuto 
+que no esté funcionando. Por lo que debe de haber un encargado de vigilar y corregir las fallas.
+
+4.-Realizar labores de mantenimiento y limpieza de los equipos del centro de
+cómputo.
+Ejemplo: En los centros de cómputo de la FES, si no se realiza mantenimiento preventivo los equipos podrían dejar 
+de funcionar en un menor tiempo, lo cual generaría un mayor gasto en ese departamento, o simplemente se iria 
+quedando sin equipos de computo.
+
+5.- Aplicar en forma estricta las normas de seguridad y control establecidas.
+Ejemplo: Una empresa encargada de desarrollo de software para bancos tuvo una brecha de seguridad y se filtró 
+información sensible por no aplicar las normas de seguridad y control. la empresa termino cerrando y con varias demandas
